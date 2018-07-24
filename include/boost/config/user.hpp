@@ -14,7 +14,6 @@
 //
 
 // Android defines
-#define __arm__ 1
 #define _REENTRANT 1
 #define _GLIBCXX__PTHREADS 1
 // There is problem with std::atomic on android (and some other platforms).
